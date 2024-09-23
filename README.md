@@ -90,8 +90,8 @@ The directions for this lab set are available at:
 
 - [Metrics with Influx/Grafana](/influxdb_grafana.md)
 
-- [HA InfluxDB](https://github.com/ultramathman/lisalabs/blob/master/influxdb_ha.md)
+- [HA InfluxDB](/influxdb_ha.md)
 
-- [Docker Basics](https://github.com/ultramathman/lisalabs/blob/master/docker.md)
+- [Docker Basics](/docker.md)
 
-- [Saltstack for Configuration Management](https://github.com/ultramathman/lisalabs/blob/master/saltstack.md)
+- [Saltstack for Configuration Management](/saltstack.md)
