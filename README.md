@@ -1,6 +1,6 @@
 # lisalabs-saltstack-influxdb-ha-docker-telegraf-grafana
 
-# 🚀 Lehigh Univ 2018 lab for learning Saltstck, InfluxDB-HA, Docker, Telegraf and Grafana 🚀
+# 🚀 Lehigh Univ 2018 lab for learning Saltstack, InfluxDB-HA, Docker, Telegraf and Grafana 🚀
 
 https://github.com/coding-to-music/lisalabs-saltstack-influxdb-ha-docker-telegraf-grafana
 
