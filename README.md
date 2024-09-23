@@ -74,7 +74,21 @@ You can now connect as `student` at `localhost:2222` via SSH on your computer to
 
 The directions for this lab set are available at:
 
+# Original Links
+
 - [Metrics with Influx/Grafana](https://github.com/ultramathman/lisalabs/blob/master/influxdb_grafana.md)
+
+- [HA InfluxDB](https://github.com/ultramathman/lisalabs/blob/master/influxdb_ha.md)
+
+- [Docker Basics](https://github.com/ultramathman/lisalabs/blob/master/docker.md)
+
+- [Saltstack for Configuration Management](https://github.com/ultramathman/lisalabs/blob/master/saltstack.md)
+
+# Links within this repo
+
+The directions for this lab set are available at:
+
+- [Metrics with Influx/Grafana](/influxdb_grafana.md)
 
 - [HA InfluxDB](https://github.com/ultramathman/lisalabs/blob/master/influxdb_ha.md)
 
