@@ -1,0 +1,12 @@
+{
+  "name": "lisalabs-saltstack-influxdb-ha-docker-telegraf-grafana",
+  "version": "1.0.0",
+  "description": "# 🚀 Lehigh Univ 2018 lab for learning Saltstck, InfluxDB-HA, Docker, Telegraf and Grafana 🚀",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "git add . && git commit -m Build && git push"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
